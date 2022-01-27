@@ -57,6 +57,7 @@ items:
 - DennisMitchell/jellylanguage
 - beefytech/Beef
 - cue-lang/cue
+- Nimzey/FETCH-lang
 - openjdk/jdk
 display_name: Programming languages
 created_by: leereilly
